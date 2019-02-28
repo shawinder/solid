@@ -1,2 +1,2 @@
-# solid
-SOLID Principals using C#
+# SOLID 
+Principals with Examples using C#
